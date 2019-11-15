@@ -21,3 +21,6 @@ Probando
 > Gracias por visitarme
 
 > Visita también [Panicoestácogido](https://panicoestacogido.wordpress.com/)
+
+To-do list:
+-[x]Terminar este README
