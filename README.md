@@ -1,6 +1,6 @@
 # Primer repo
 
-![Error al carar la imágen](/img.png)
+![Error al carar la imágen](/aaa.png)
 
 Aprendo Markdown
 1. Listas numeradas e _**non**_ numeradas
