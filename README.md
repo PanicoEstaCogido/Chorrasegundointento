@@ -1,6 +1,6 @@
 # Primer repo
 
-![Error al carar la imágen](/aaa.png)
+![Error al carar la imágen](https://resources.mynewsdesk.com/image/upload/t_next_gen_logo_limit_x2_png/l3ygxwn7usy3lqpxbc4c.png)
 
 Aprendo Markdown
 1. Listas numeradas e _**non**_ numeradas
@@ -23,4 +23,4 @@ Probando
 > Visita también [Panicoestácogido](https://panicoestacogido.wordpress.com/)
 
 To-do list:
--[x]Terminar este README
+-[x] Terminar este README
