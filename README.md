@@ -1,4 +1,7 @@
 # Primer repo
+
+![Error al carar la imágen](/img.png)
+
 Aprendo Markdown
 1. Listas numeradas e _**non**_ numeradas
 1. Títulos
